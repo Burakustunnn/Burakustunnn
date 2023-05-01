@@ -2,7 +2,7 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm BURAK 👷🏻‍♀️👋
 
-<font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
+<font color="pink"> 🐱‍🏍 I'm Electrical and Electronics Technician but I find myself in software. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
