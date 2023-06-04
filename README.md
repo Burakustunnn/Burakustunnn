@@ -92,13 +92,13 @@
 </div>
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
-  <h2 align="center">My Projects</h2>
+<!--   <h2 align="center">My Projects</h2> -->
 
-###
+<!-- ### -->
 
-Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif) 
+<!-- Project Demo       |Libraries and Technologies I use     |Project Preview    -->
+<!-- :-------------------------|-------------------------|------------------------- -->
+<!-- [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)  -->
 
 
 
