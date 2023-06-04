@@ -1,5 +1,5 @@
 <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br> -->
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></br>
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></br>
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm BURAK 👷🏻‍♀️👋
 
