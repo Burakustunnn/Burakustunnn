@@ -1,5 +1,5 @@
 <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br> -->
-<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="200"/></br>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></br>
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm BURAK 👷🏻‍♀️👋
 
