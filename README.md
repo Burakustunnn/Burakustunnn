@@ -98,7 +98,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview    
  :-------------------------|-------------------------|-------------------------
- [Stock App](https://stock-app-phi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/stock-app)</h3> | React JS, MUI |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif) 
+ [Stock App](https://stock-app-phi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/stock-app)</h3> | React JS, MUI |![StockApp](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/d0b676b1-3c9f-4e11-b69f-c617bc5c6e15) 
 
 
 
