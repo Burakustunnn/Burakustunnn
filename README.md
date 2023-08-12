@@ -99,6 +99,7 @@
   Project Demo       |Libraries and Technologies I use     |Project Preview    
  :-------------------------|-------------------------|-------------------------
  [Stock App](https://stock-app-phi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/stock-app)</h3> | React JS, MUI |![Stock-App](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/1d3ca75e-8241-4ce9-be17-9980b73f5cce) 
+ [Movie App](https://movie-app-lyart-chi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/movie-App)</h3> | React JS, Tailwind, Firebase |![MovieApp](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/fa63acde-ed50-4263-8ad4-058aa3123b3a) 
 
 
 
