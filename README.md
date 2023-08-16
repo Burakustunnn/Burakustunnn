@@ -99,10 +99,9 @@
   Project Demo       |Libraries and Technologies I use     |Project Preview    
  :-------------------------|-------------------------|-------------------------
  [Stock App](https://stock-app-phi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/stock-app)</h3> | React JS, MUI |![Stock-App](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/1d3ca75e-8241-4ce9-be17-9980b73f5cce) 
- [Movie App](https://movie-app-lyart-chi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/movie-App)</h3> | React JS, Tailwind, Firebase |![MovieApp](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/fa63acde-ed50-4263-8ad4-058aa3123b3a) 
+ [Movie App](https://movie-app-lyart-chi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/movie-App)</h3> | React JS, Tailwind, Firebase, React Context |![MovieApp](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/fa63acde-ed50-4263-8ad4-058aa3123b3a) 
  [Albums](https://movie-app-lyart-chi.vercel.app/) <h3>[Repo](https://github.com/Burakustunnn/react-albums)</h3> | React JS, Pure CSS |![Albums](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/61d6d8c9-aac1-4f23-982b-330e92dfa22f)
-
-
+ [Blog App](https://blog-app-pi-nine.vercel.app/login) <h3>[Repo](https://github.com/Burakustunnn/Blog-App)</h3> | React JS, MUI, Redux, Redux Persist |![BlogApp](https://github.com/Burakustunnn/Burakustunnn/assets/118963789/ac7aeccd-714b-4556-be03-42d59802a8e8)
 
 <br> 
 
